@@ -1,0 +1,27 @@
+{
+  "name": "promisified-pipe",
+  "version": "0.0.1",
+  "description": "Converts readable and writable Node streams to await-able Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --recursive || echo NO TESTS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koresar/promisified-pipe.git"
+  },
+  "keywords": [
+    "stream",
+    "promise",
+    "pipe",
+    "await",
+    "readable",
+    "writable"
+  ],
+  "author": "koresar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koresar/promisified-pipe/issues"
+  },
+  "homepage": "https://github.com/koresar/promisified-pipe#readme"
+}
