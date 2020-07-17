@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koresar/promisified-pipe.git"
+    "url": "git+https://github.com/flash-oss/promisified-pipe.git"
   },
   "keywords": [
     "stream",
@@ -21,7 +21,7 @@
   "author": "koresar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/koresar/promisified-pipe/issues"
+    "url": "https://github.com/flash-oss/promisified-pipe/issues"
   },
-  "homepage": "https://github.com/koresar/promisified-pipe#readme"
+  "homepage": "https://github.com/flash-oss/promisified-pipe#readme"
 }
